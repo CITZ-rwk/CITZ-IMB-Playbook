@@ -59,7 +59,7 @@ Read about our design theme [here](https://bcgov.github.io/CITZ-IMB-playbook/the
 Read our development guide [here](https://bcgov.github.io/CITZ-IMB-playbook/maintenanceanddevelopment).
 
 ## Contributing Guideline:
-Contributions are welcome, but please review this document before making any change
+Contributions are welcome, but please review this document before making any change(s)...
 
 - ### Best Practices:
   - Be careful when using/passing/storing credentials
